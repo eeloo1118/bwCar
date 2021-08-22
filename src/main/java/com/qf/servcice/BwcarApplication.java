@@ -8,8 +8,8 @@ public class BwcarApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BwcarApplication.class, args);
-        System.out.println("xiugai ");
-
+        System.out.println("master-1");
+        System.out.println("master-1");
     }
 
 }
